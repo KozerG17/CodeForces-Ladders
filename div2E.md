@@ -1,6 +1,6 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Squares and not squares](https://codeforces.com/problemset/problem/898/E) | 1600 |  |
+| 1 | [Squares and not squares](https://codeforces.com/problemset/problem/898/E) | 1600 | X |
 | 2 | [Comments](https://codeforces.com/problemset/problem/747/E) | 1700 |  |
 | 3 | [Numbers Exchange](https://codeforces.com/problemset/problem/746/E) | 1800 |  |
 | 4 | [Tree Reconstruction](https://codeforces.com/problemset/problem/1041/E) | 1900 |  |
